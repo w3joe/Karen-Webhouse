@@ -6,6 +6,10 @@ _"Your website probably sucks" - Karen_
 
 **Karen's WebHouse** is an innovative web application that delivers brutally honest, hilariously sarcastic website critiques through an AI-powered conversational agent named Karen. Combining cutting-edge vision AI with natural voice interaction, Karen analyzes your website's design flaws and roasts them with personality—complete with visual annotations highlighting every problematic area.
 
+
+https://github.com/user-attachments/assets/403144c1-6f68-4aa3-ad13-7231dad1b381
+
+
 ## 💡 The Concept
 
 Traditional website audits are boring, technical, and lack personality. Karen's WebHouse flips this on its head by providing:
